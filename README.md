@@ -1,38 +1,46 @@
+
 # Repositório de Estudos em Java
 
-Este repositório reúne minhas práticas e projetos desenvolvidos ao longo do curso Técnico em Desenvolvimento de Sistemas (SENAI) e estudos posteriores, desde os primeiros passos em Java até conceitos mais avançados.
+Este repositório reúne minhas práticas, projetos e experimentações com a linguagem Java, desenvolvidos ao longo do curso Técnico em Desenvolvimento de Sistemas (SENAI) e em estudos independentes. Ele documenta minha jornada desde os fundamentos da linguagem até o uso de frameworks e conceitos mais avançados.
 
 ## Objetivo
 
-Demonstrar minha evolução no aprendizado da linguagem Java por meio de atividades práticas, exercícios e projetos. O repositório serve tanto como portfólio pessoal quanto como ferramenta de estudo e revisão.
+Registrar minha evolução como desenvolvedor Java por meio de exercícios, códigos comentados, pequenos sistemas e experimentações. O repositório serve como:
+
+- Portfólio pessoal  
+- Ferramenta de estudo e revisão  
+- Referência para quem também está aprendendo  
 
 ## Estrutura do Repositório
 
-- `/Java-Básico`  
-  Estruturas condicionais, laços de repetição, operadores e lógica simples.
+- `Java-Básico/`  
+  Conceitos fundamentais: variáveis, operadores, condicionais, laços e lógica simples.
 
-- `/POO`  
-  Programação Orientada a Objetos na prática: encapsulamento, herança, polimorfismo, abstração, interface.
+- `POO/`  
+  Prática de Programação Orientada a Objetos: encapsulamento, herança, polimorfismo, abstração e interfaces.
 
-- `/Projetos`  
-  Pequenos sistemas e aplicações utilizando os conceitos aprendidos (ex: sistemas de cadastro, controle, etc.).
+- `Projetos/`  
+  Pequenos sistemas aplicando os conceitos aprendidos, como sistemas de cadastro, controle, etc.
 
-- `/Explorando`  
-  Recursos adicionais da linguagem, como `enum`, tratamento de exceções, entre outros.
+- `Explorando/`  
+  Tópicos extras: enums, tratamento de exceções, coleções, entrada/saída de dados e mais.
 
-## Tecnologias
+- `SpringBoot/` *(em andamento)*  
+  Primeiros passos com o framework Spring Boot, incluindo API REST, camadas de serviço e uso do padrão DAO.
 
-- Java (JDK 17 ou superior)  
-- IDE: Eclipse ou IntelliJ 
-- Git para versionamento de código
+## Tecnologias Utilizadas
 
-## Sobre mim
+- **Java** — JDK 23  
+- **IDE** — Eclipse ou IntelliJ IDEA  
+- **Controle de Versão** — Git/GitHub  
+- **Frameworks** *(em aprendizado)* — Spring Boot, JPA, Hibernate  
+- **Banco de Dados** — MySQL com JDBC
 
-Sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo. Este repositório é parte do meu processo de evolução como programador e está em constante crescimento.
+## Sobre Mim
 
----
+Sou Gabriel Oliveira Silva, estudante de Desenvolvimento de Sistemas e entusiasta de tecnologia. Curioso por natureza e focado em evolução constante, compartilho aqui parte do meu processo de aprendizado — com erros, acertos e progressos reais.
 
-**Contato**  
-Gabriel Oliveira Silva  
-Email: ogabriel292@gmail.com  
-Linkedin: [Gabriel Silva](https://linkedin.com/in/gabriel-silva-b39901185)
+## Contato
+
+- **Email:** ogabriel292@gmail.com  
+- **LinkedIn:** [Gabriel Silva](https://linkedin.com/in/gabriel-silva-b39901185)
