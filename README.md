@@ -1,7 +1,12 @@
 
 # Repositório de Estudos em Java
-
-Este repositório reúne minhas práticas, projetos e experimentações com a linguagem Java, desenvolvidos ao longo do curso Técnico em Desenvolvimento de Sistemas (SENAI) e em estudos independentes. Ele documenta minha jornada desde os fundamentos da linguagem até o uso de frameworks e conceitos mais avançados.
+<table>
+  <tr>
+    <td>
+Este repositório reúne minhas práticas, projetos e experimentações com a linguagem Java, desenvolvidos ao longo do curso Técnico em Desenvolvimento de Sistemas (SENAI) e em estudos independentes. Ele documenta minha jornada desde os fundamentos da linguagem até o uso de frameworks e conceitos mais avançados. <br>
+    </td>
+  </tr>
+</table>
 
 ## Objetivo
 
